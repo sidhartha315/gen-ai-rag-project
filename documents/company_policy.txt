@@ -1,0 +1,3 @@
+Employee get 18 days of annual leave.
+Company working hours are 9 AM to 6 PM.
+Employee can work from home twice a week.
